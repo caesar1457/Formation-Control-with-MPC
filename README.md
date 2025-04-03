@@ -8,7 +8,7 @@ This MATLAB project demonstrates **multi-robot formation control** using **Model
 
 > Final result after running the simulation:
 
-![Formation Result](https://github.com/caesar1457/Formation-Control-with-MPC/raw/main/final_1.jpg)
+![Formation Result](https://github.com/caesar1457/Formation-Control-with-MPC/raw/main/final_1.png)
 
 ---
 
