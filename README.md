@@ -12,6 +12,12 @@ This MATLAB project demonstrates **multi-robot formation control** using **Model
 
 ---
 
+## 🎥 Demo
+
+▶️ [Click to watch the full video demo](https://github.com/caesar1457/Formation-Control-with-MPC/raw/main/2023-10-24 04-04-40.mp4)
+
+---
+
 ## ▶️ How to Run
 
 ```matlab
